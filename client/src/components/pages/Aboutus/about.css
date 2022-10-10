@@ -1,0 +1,26 @@
+
+.aboutus-section {
+    padding: 90px 0;
+}
+
+.aboutus-title {
+    font-size: 70px;
+    line-height: 22px;
+    width: 500px;
+}
+
+.aboutus-text {
+    color: #5B5B5B;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.feature .feature-box .feature-content h4 {
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    color: #5B5B5B;
+}
+.a-img{
+    width: 100%;
+}
