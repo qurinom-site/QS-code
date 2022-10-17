@@ -1,1 +1,1 @@
-# qurinom-solutions-official
+# qurinom-solutions
